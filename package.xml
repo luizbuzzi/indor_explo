@@ -54,10 +54,12 @@
   <build_depend>roscpp</build_depend>
   <build_depend>move_base_msgs</build_depend>
   <build_depend>actionlib</build_depend>
+  <build_depend>frontier_exploration</build_depend>
 
   <exec_depend>roscpp</exec_depend>
   <exec_depend>move_base_msgs</exec_depend>
   <exec_depend>actionlib</exec_depend>
+  <exec_depend>frontier_exploration</exec_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
